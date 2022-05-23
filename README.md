@@ -67,7 +67,7 @@ This project would not have been possible without the resources and tutelage off
 - [API resource](https://rapidapi.com/hub)  
 - [Modal help](https://www.w3schools.com/howto/howto_css_modals.asp)
 - [Memory issues](https://stackoverflow.com/questions/41655362/how-do-i-clear-javascript-console-and-delete-everything-stored-in-memory)
-- [Our Boot Camp](https://bootcamp.berkeley.edu/coding/)  
+- [Our Bootcamp](https://bootcamp.berkeley.edu/coding/)  
 - [UI Colors](https://flatuicolors.com/)
 - [UX design tips](https://uxplanet.org/neumorphic-buttons-using-basic-html-css-477cb6f941c0)
 - [Markdown guide](https://www.markdownguide.org/basic-syntax/)
