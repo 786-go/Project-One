@@ -38,7 +38,7 @@ To search for a movie:
   
 1. Open the website URL
 2. Enter the name of a movie 
-3. click the search button
+3. Click the search button
 
 ## Usage
   
